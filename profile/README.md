@@ -40,13 +40,20 @@
 
 ## 기술 스택
 
-| 분류 | 기술 |
-|------|------|
-| 프론트엔드 | React, Tailwind CSS |
-| 백엔드 | Node.js, Spring |
-| AI / NLP | Whisper, LangChain, OpenAI, Python(FastAPI) |
-| 데이터베이스 |  |
-| 벡터스토어 | Chroma |
+| 분류     | 기술                                  |
+| ------ | ----------------------------------- |
+| 프론트엔드  | React, CSS                 |
+| 백엔드    | Spring                              |
+| AI 서버  | Python (FastAPI) |
+| 벡터스토어  | Chroma                              |
+| 데이터베이스 | Supabase (PostgreSQL)               |
+
+
+| 영역     | 기술                              |
+| ------ | ------------------------------- |
+| 음성 인식  | Clova STT                         |
+| 자연어 처리 | LangChain, OpenAI               |
+| FTT    |                        |
 
 
 ## 대상 사용자
