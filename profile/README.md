@@ -43,10 +43,10 @@
 | 분류     | 기술                                  |
 | ------ | ----------------------------------- |
 | 프론트엔드  | React, CSS                 |
-| 백엔드    | Spring                              |
+| 백엔드    | Spring boot                             |
 | AI 서버  | Python (FastAPI) |
 | 벡터스토어  | Chroma                              |
-| 데이터베이스 | Supabase (PostgreSQL)               |
+| 데이터베이스 | MariaDB               |
 
 
 | 영역     | 기술                              |
